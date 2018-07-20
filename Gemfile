@@ -26,6 +26,7 @@ gem 'database_cleaner'
 gem 'carrierwave'
 gem 'bcrypt-ruby'
 gem 'bootsnap', require: false
+gem 'haml'
 
 
 group :development do
